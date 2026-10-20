@@ -1,3 +1,59 @@
+# Ice Cream — Team Web Development Project
+
+A responsive website for an ice cream brand, developed as a team project during my web development training.
+
+## Live Demo
+
+[View the live website](https://hanna-serdjuk.github.io/icecream-project/)
+
+## About the Project
+
+The Ice Cream project is a team-developed website created to practise front-end development, teamwork, and collaboration using Git and GitHub.
+
+As the **Team Lead**, I was responsible for coordinating the team's work, helping resolve conflicts, and contributing to the development of several sections of the website.
+
+## My Role and Contributions
+
+**Role: Team Lead & Front-End Developer**
+
+- **Header** — developed the website header and navigation section.
+- **Footer** — implemented the footer section.
+- **Customer Reviews** — developed the customer reviews section.
+- **Locations** — implemented the locations section.
+- **Team Coordination** — coordinated team tasks, monitored progress, and helped keep the work organized.
+- **Conflict Resolution** — helped resolve disagreements within the team and find solutions that worked for everyone.
+
+## Technologies
+
+- HTML5
+- CSS3 / Sass
+- JavaScript
+- Parcel
+- Git
+- GitHub
+
+## Key Learnings
+
+- Developing and styling website sections
+- Creating responsive web layouts
+- Collaborating on a shared codebase
+- Using Git and GitHub in a team environment
+- Coordinating tasks and supporting team members
+- Resolving conflicts and finding constructive solutions
+- Taking responsibility as a Team Lead
+
+## Project Links
+
+- [Live Demo](https://hanna-serdjuk.github.io/icecream-project/)
+- [GitHub Repository](https://github.com/Hanna-Serdjuk/icecream-project)
+
+## Author
+
+**Hanna Serdjuk**  
+
+[GitHub Profile](https://github.com/Hanna-Serdjuk)
+
+
 # Parcel boilerplate
 
 ## Скрытые файлы
